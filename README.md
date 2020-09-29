@@ -1,3 +1,5 @@
+【課題：アプリケーションを作成してみよう：基礎編】の提出物です
+
 # README
 
 This README would normally document whatever steps are necessary to get the
